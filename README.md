@@ -21,6 +21,13 @@ those fires down? I might be able help with that.
   <img width="500" src="assets/building_map.gif">
 </p>
 
+## Masters Thesis on Unsupervised Anomaly Detection
+Detecting lesions in brain MRI scans in an unsupervised manner at the
+[Computer Vision Lab at ETHZ](https://vision.ee.ethz.ch/).
+<p align="center">
+  <img width="500" src="assets/reconstructions.png">
+</p>
+
 ## Parallelizing 2D Convex Hull Finding Algorithms
 We implemented several algorithms that compute convex hulls and
 parallelized the heck out of them. Amongst others, Quickhull, Jarvis,
