@@ -6,7 +6,7 @@ Good old times.
   <img width="600" src="assets/particle_tracker.gif">
 </p>
 
-## Radiological Areatment Planning System
+## Radiological Treatment Planning System
 This is an implementation of a 2D treatment planning system with all
 major components such as radiological depth calculation, dose distribution
 calculations and fluence map optimization. [Want more GIF's?](https://github.com/matthaeusheer/treatment-planner)
@@ -36,6 +36,13 @@ optimization algorithms and get the last bit of performance out of them.
 C is your best friend.
 <p align="center">
   <img width="500" src="assets/fastcode_algorithms.gif">
+</p>
+
+## 3D Vision and the Hololens
+Want to explore a site? Someone needs to tell you where you haven't
+been yet!
+<p align="center">
+  <img width="500" src="assets/holo_struct.gif">
 </p>
 
 ## Planetary Collisions and How the Solar System Formed
