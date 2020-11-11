@@ -6,7 +6,7 @@ Good old times.
   <img width="600" src="assets/particle_tracker.gif">
 </p>
 
-## Radiological treatment planning system
+## Radiological Areatment Planning System
 This is an implementation of a 2D treatment planning system with all
 major components such as radiological depth calculation, dose distribution
 calculations and fluence map optimization. [Want more GIF's?](https://github.com/matthaeusheer/treatment-planner)
