@@ -40,7 +40,7 @@ C is your best friend.
 
 ## 3D Vision and the Hololens
 Want to explore a site? Someone needs to tell you where you haven't
-been yet!
+looked yet!
 <p align="center">
   <img width="500" src="assets/holo_struct.gif">
 </p>
