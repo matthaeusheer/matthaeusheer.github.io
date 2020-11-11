@@ -42,7 +42,7 @@ implementing some nice animal-inspired
 optimization algorithms and get the last bit of performance out of them.
 C is your best friend.
 <p align="center">
-  <img width="500" src="assets/fastcode_algorithms.gif">
+  <img width="300" src="assets/fastcode_algorithms.gif">
 </p>
 
 ## 3D Vision and the Hololens
