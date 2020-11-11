@@ -1,5 +1,4 @@
 # Some of my projects
-...mainly those, which include some nice graphics.
 
 ## A Nostalgic Particle Tracker
 Good old times.
@@ -7,19 +6,17 @@ Good old times.
   <img width="600" src="assets/particle_tracker.gif">
 </p>
 
-## Radiological treatment planning system in MATLAB
+## Radiological treatment planning system
 This is an implementation of a 2D treatment planning system with all
 major components such as radiological depth calculation, dose distribution
-calculations and fluence map optimization. [Want more?](https://github.com/matthaeusheer/treatment-planner)
+calculations and fluence map optimization. [Want more GIF's?](https://github.com/matthaeusheer/treatment-planner)
 <p align="center">
   <img width="600" src="assets/treatment_planner.gif">
 </p>
 
 ## Creating a Semantic Building Map
-Given the input stream from the volumetric mapping library
-[voxblox](https://github.com/ethz-asl/voxblox), I created a semantic map
-of a building and it's entry points along with uncertainty measures for
-each entry point.
+How would a [fire-fighting drone](https://www.mbzirc.com/challenge/2020) know how to enter a building and put
+those fires down? I might be able help with that.
 <p align="center">
   <img width="500" src="assets/building_map.gif">
 </p>
@@ -36,7 +33,7 @@ Graham, Chan and combinations thereof. [Code](https://github.com/matthaeusheer/d
 [This](https://github.com/matthaeusheer/fastcode) project was all about
 implementing some nice animal-inspired
 optimization algorithms and get the last bit of performance out of them.
-C is your friend.
+C is your best friend.
 <p align="center">
   <img width="500" src="assets/fastcode_algorithms.gif">
 </p>
@@ -52,7 +49,7 @@ Those where the questions I investigated on during my Bachelors thesis.
 </p>
 
 ## SPH Simulations
-Fun little project implementing Smoothed Particle Hydrodynamics
+Fun little project implementing [Smoothed Particle Hydrodynamics](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics#:~:text=Smoothed%2Dparticle%20hydrodynamics%20(SPH),1977%2C%20initially%20for%20astrophysical%20problems.)
 simulations and some underlying tree datastructures.
 <p align="center">
   <img width="500" src="assets/sph_tree_sim.gif">
