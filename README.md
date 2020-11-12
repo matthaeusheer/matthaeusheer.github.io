@@ -1,6 +1,6 @@
 # Some of my projects
 
-## A Nostalgic Particle Tracker
+## A Nostalgic Particle Filter Tracker
 Good old times.
 <p align="center">
   <img width="600" src="assets/particle_tracker.gif">
@@ -29,18 +29,17 @@ Detecting lesions in brain MRI scans in an unsupervised manner at the
 </p>
 
 ## Parallelizing 2D Convex Hull Finding Algorithms
-We implemented several algorithms that compute convex hulls and
-parallelized the heck out of them. Amongst others, Quickhull, Jarvis,
-Graham, Chan and combinations thereof. [Code](https://github.com/matthaeusheer/dphpc-project) here.
+Implementations and benchmarks of several convex hull computation algorithms with some neat OpenMP parallelization going on. Amongst others, Quickhull, Jarvis,
+Graham, Chan and combinations thereof. Want to find out [more](https://github.com/matthaeusheer/dphpc-project)?
 <p align="center">
   <img width="500" src="assets/graham_chan_hull.gif">
 </p>
 
 ## Making Evolutionary Optimization Algorithms Go Fast
-[This](https://github.com/matthaeusheer/fastcode) project was all about
+This project was all about
 implementing some nice animal-inspired
-optimization algorithms and get the last bit of performance out of them.
-C is your best friend.
+optimization algorithms and getting the last bit of performance out of them.
+Get your [daily dosis](https://github.com/matthaeusheer/fastcode) of C and SIMD instructions here!
 <p align="center">
   <img width="300" src="assets/fastcode_algorithms.gif">
 </p>
@@ -53,7 +52,7 @@ looked yet!
 </p>
 
 ## Planetary Collisions and How the Solar System Formed
-Those where the questions I investigated on during my Bachelors thesis.
+Those where the questions I investigated on during my Bachelors thesis at the [Institute for Computational Science at the University of Zurich](https://www.ics.uzh.ch/en/).
 <p align="center">
   <img width="500" src="assets/genga.gif">
 </p>
