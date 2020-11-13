@@ -22,7 +22,7 @@ those fires down? I might be able help with that.
 </p>
 
 ## Masters Thesis on Unsupervised Anomaly Detection
-Detecting lesions in brain MRI scans in an unsupervised manner at the
+Detecting lesions in brain MRI scans using unsupervised Deep Representation Learning at the
 [Computer Vision Lab at ETHZ](https://vision.ee.ethz.ch/).
 <p align="center">
   <img width="500" src="assets/reconstructions.png">
