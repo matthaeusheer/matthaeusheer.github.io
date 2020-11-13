@@ -28,6 +28,12 @@ Detecting lesions in brain MRI scans in an unsupervised manner at the
   <img width="500" src="assets/reconstructions.png">
 </p>
 
+## PID Controller
+If you want to learn how it works - code it up yourself! Or check out [my attempt](https://github.com/matthaeusheer/playground/tree/main/pid_contoller) of a PID controller test suite here.
+<p align="center">
+  <img width="500" src="assets/pd_controller.gif">
+</p>
+
 ## Parallelizing 2D Convex Hull Finding Algorithms
 We implemented several algorithms that compute convex hulls and
 parallelized the heck out of them. Amongst others, Quickhull, Jarvis,
