@@ -31,7 +31,7 @@ Detecting lesions in brain MRI scans in an unsupervised manner at the
 ## PID Controller
 If you want to learn how it works - code it up yourself! Or check out [my attempt](https://github.com/matthaeusheer/playground/tree/main/pid_contoller) of a PID controller test suite here.
 <p align="center">
-  <img width="800" src="assets/pd_controller.gif">
+  <img width="800" src="assets/pid_controller_gravity.gif">
 </p>
 
 ## Parallelizing 2D Convex Hull Finding Algorithms
