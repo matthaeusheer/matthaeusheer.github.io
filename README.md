@@ -9,7 +9,7 @@ Good old times.
 ## Radiological Treatment Planning System
 This is an implementation of a 2D treatment planning system with all
 major components such as radiological depth calculation, dose distribution
-calculations and fluence map optimization. [Want more GIF's?](https://github.com/matthaeusheer/treatment-planner)
+calculations and fluence map optimization using constrained Gradient Descent optimization. [Want more GIF's?](https://github.com/matthaeusheer/treatment-planner)
 <p align="center">
   <img width="600" src="assets/treatment_planner.gif">
 </p>
@@ -22,7 +22,7 @@ those fires down? I might be able help with that.
 </p>
 
 ## Masters Thesis on Unsupervised Anomaly Detection
-Detecting lesions in brain MRI scans in an unsupervised manner at the
+Detecting lesions in brain MRI scans using unsupervised Deep Representation Learning at the
 [Computer Vision Lab at ETHZ](https://vision.ee.ethz.ch/).
 <p align="center">
   <img width="500" src="assets/reconstructions.png">
