@@ -20,7 +20,7 @@ ETH Zurich I attempted to provide answers.
 </p>
 
 ## A RRT (Rapidly-Exploring Random Trees)-based Path Planner
-Some Monte-Carlo action to get from A to B.
+Some Monte-Carlo sampling action to get from A to B.
 <p align="center">
   <img width="500" src="assets/rrt_path_planner.gif">
 </p>
@@ -53,15 +53,14 @@ Find out [more](https://github.com/matthaeusheer/dphpc-project) here.
 </p>
 
 ## Making Evolutionary Optimization Algorithms Go Fast
-This project was all about
-implementing some nice animal-inspired
-optimization algorithms and getting the last bit of performance out of them.
+This project about implementing various [Meta-Heuristic Optimiztaion](http://www.scholarpedia.org/article/Metaheuristic_Optimization)
+algorithms and squeezing the last bit of performance out of them.
 Get your [daily dosis](https://github.com/matthaeusheer/fastcode) of C and SIMD instructions here!
 <p align="center">
   <img width="300" src="assets/fastcode_algorithms.gif">
 </p>
 
-## A Nostalgic Particle Filter Tracker
+## A Nostalgic Particle Filter Object Tracker
 Good old times.
 <p align="center">
   <img width="600" src="assets/particle_tracker.gif">
@@ -75,7 +74,7 @@ looked yet!
 </p>
 
 ## Planetary Collisions and How the Solar System Formed
-Those where the questions I investigated on during my Bachelors
+Questions I investigated on during my Bachelors
 Thesis at the
 [Institute for Computational Science at the University of Zurich](https://www.ics.uzh.ch/en/).
 <p align="center">
