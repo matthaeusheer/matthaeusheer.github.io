@@ -1,48 +1,53 @@
 # Some of my projects
 
-## A Nostalgic Particle Filter Tracker
-Good old times.
-<p align="center">
-  <img width="600" src="assets/particle_tracker.gif">
-</p>
-
 ## Radiological Treatment Planning System
-This is an implementation of a 2D treatment planning system with all
+My implementation of a 2D treatment planning system including all
 major components such as radiological depth calculation, dose distribution
-calculations and fluence map optimization using constrained Gradient Descent optimization. [Want more GIF's?](https://github.com/matthaeusheer/treatment-planner)
+calculations and fluence map optimization using
+constrained Gradient Descent optimization.
+[Code and more GIF' here!](https://github.com/matthaeusheer/treatment-planner)
 <p align="center">
   <img width="600" src="assets/treatment_planner.gif">
 </p>
 
 ## Creating a Semantic Building Map
-How would a [fire-fighting drone](https://www.mbzirc.com/challenge/2020) know how to enter a building and put
-those fires down? I might be able help with that.
+How would a [fire-fighting drone](https://www.mbzirc.com/challenge/2020)
+know how to enter a building and put those fires down?
+In my work at the [Autonomous Systems Lab](https://asl.ethz.ch/) at
+ETH Zurich I attempted to provide answers.
 <p align="center">
   <img width="500" src="assets/building_map.gif">
 </p>
 
-## A simple RRT (Rapidly-exploring random trees) Path Planner
+## A RRT (Rapidly-Exploring Random Trees)-based Path Planner
+Some Monte-Carlo action to get from A to B.
 <p align="center">
   <img width="500" src="assets/rrt_path_planner.gif">
 </p>
 
 
 ## Masters Thesis on Unsupervised Anomaly Detection
-Detecting lesions in brain MRI scans using unsupervised Deep Representation Learning at the
-[Computer Vision Lab at ETHZ](https://vision.ee.ethz.ch/).
+Detecting lesions in brain MRI scans using unsupervised Deep
+Representation Learning at the
+[Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH Zurich.
 <p align="center">
   <img width="500" src="assets/reconstructions.png">
 </p>
 
 ## PID Controller
-If you want to learn how it works - code it up yourself! Or check out [my attempt](https://github.com/matthaeusheer/playground/tree/main/pid_contoller) of a PID controller test suite here.
+A real classic. If you want to learn how it works - code it up yourself!
+Or check out [my implementation](https://github.com/matthaeusheer/playground/tree/main/pid_contoller)
+of a PID controller test suite here.
 <p align="center">
   <img width="800" src="assets/pid_controller_gravity.gif">
 </p>
 
 ## Parallelizing 2D Convex Hull Finding Algorithms
-Implementations and benchmarks of several convex hull computation algorithms with some neat OpenMP parallelization going on. Amongst others, Quickhull, Jarvis,
-Graham, Chan and combinations thereof. Want to find out [more](https://github.com/matthaeusheer/dphpc-project)?
+Implementations and benchmarks of several convex hull computation
+algorithms with some neat OpenMP parallelization going on.
+Algorithms include Quickhull, Jarvis,
+Graham, Chan and combinations thereof.
+Find out [more](https://github.com/matthaeusheer/dphpc-project) here.
 <p align="center">
   <img width="500" src="assets/graham_chan_hull.gif">
 </p>
@@ -56,6 +61,12 @@ Get your [daily dosis](https://github.com/matthaeusheer/fastcode) of C and SIMD 
   <img width="300" src="assets/fastcode_algorithms.gif">
 </p>
 
+## A Nostalgic Particle Filter Tracker
+Good old times.
+<p align="center">
+  <img width="600" src="assets/particle_tracker.gif">
+</p>
+
 ## 3D Vision and the Hololens
 Want to explore a site? Someone needs to tell you where you haven't
 looked yet!
@@ -64,7 +75,9 @@ looked yet!
 </p>
 
 ## Planetary Collisions and How the Solar System Formed
-Those where the questions I investigated on during my Bachelors thesis at the [Institute for Computational Science at the University of Zurich](https://www.ics.uzh.ch/en/).
+Those where the questions I investigated on during my Bachelors
+Thesis at the
+[Institute for Computational Science at the University of Zurich](https://www.ics.uzh.ch/en/).
 <p align="center">
   <img width="500" src="assets/genga.gif">
 </p>
@@ -82,6 +95,8 @@ simulations and some underlying tree datastructures.
 
 ## Finding People in the Wild
 This drone is capable of deciding who needs help down there!
+Project for the Swiss Air Rescue Service for autonomous Search&Rescue
+missions.
 <p align="center">
   <img width="500" src="assets/people_detector.gif">
 </p>
