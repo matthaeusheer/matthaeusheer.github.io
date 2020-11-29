@@ -43,7 +43,7 @@ of a PID controller test suite here.
 </p>
 
 ## A 3D OpenGL Renderer
-A fast 3D renderer to visualize SPH point cloud data from planetary collisions in pure OpenGL and C++.
+A fast [3D renderer](https://github.com/matthaeusheer/sph-gl) to visualize SPH point cloud data from planetary collisions in pure OpenGL and C++.
 <p align="center">
   <img width="500" src="assets/sph_gl.gif.gif">
 </p>
