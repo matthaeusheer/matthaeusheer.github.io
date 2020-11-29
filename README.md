@@ -1,5 +1,6 @@
-# Some of my projects
+I am a Masters Student at [University of Zurich](www.uzh.ch) and [ETH Zurich](www.ethz.ch) in Biological and Medical Physics. I like coding, climbing and people.  
 
+These are some of my projects.
 ## Radiological Treatment Planning System
 My implementation of a 2D treatment planning system including all
 major components such as radiological depth calculation, dose distribution
