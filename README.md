@@ -1,5 +1,6 @@
-# Some of my projects
+I am a Masters Student at [University of Zurich](https://www.uzh.ch/de.html) and [ETH Zurich](https://ethz.ch/de.html) in Physics. I like coding, robotics and vision stuff.  
 
+These are some of my projects.
 ## Radiological Treatment Planning System
 An implementation of a 2D treatment planning system including all
 major components such as radiological depth calculation, dose distribution
@@ -42,6 +43,13 @@ of a PID controller test suite here.
 <p align="center">
   <img width="800" src="assets/pid_controller_gravity.gif">
 </p>
+
+## A 3D OpenGL Renderer
+A fast [3D renderer](https://github.com/matthaeusheer/sph-gl) to visualize SPH point cloud data from planetary collisions in pure OpenGL and C++.
+<p align="center">
+  <img width="500" src="assets/sph_gl.gif.gif">
+</p>
+
 
 ## Parallelizing 2D Convex Hull Finding Algorithms
 Implementations and benchmarks of several convex hull computation
