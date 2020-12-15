@@ -15,7 +15,7 @@ constrained Gradient Descent optimization.
 How would a [fire-fighting drone](https://www.mbzirc.com/challenge/2020)
 know how to enter a building and put those fires down?
 In my work at the [Autonomous Systems Lab](https://asl.ethz.ch/) at
-ETH Zurich I attempted to provide answers. [Github repo](https://github.com/matthaeusheer/uncertify) available.
+ETH Zurich I attempted to provide answers. Chout out the [Github repo](https://github.com/matthaeusheer/uncertify).
 <p align="center">
   <img width="500" src="assets/building_map.gif">
 </p>
