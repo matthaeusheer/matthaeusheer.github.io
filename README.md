@@ -1,7 +1,7 @@
 # Some of my projects
 
 ## Radiological Treatment Planning System
-My implementation of a 2D treatment planning system including all
+An implementation of a 2D treatment planning system including all
 major components such as radiological depth calculation, dose distribution
 calculations and fluence map optimization using
 constrained Gradient Descent optimization.
@@ -14,13 +14,14 @@ constrained Gradient Descent optimization.
 How would a [fire-fighting drone](https://www.mbzirc.com/challenge/2020)
 know how to enter a building and put those fires down?
 In my work at the [Autonomous Systems Lab](https://asl.ethz.ch/) at
-ETH Zurich I attempted to provide answers.
+ETH Zurich I attempted to provide answers. [Github repo](https://github.com/matthaeusheer/uncertify) available.
 <p align="center">
   <img width="500" src="assets/building_map.gif">
 </p>
 
 ## A RRT (Rapidly-Exploring Random Trees)-based Path Planner
 Some Monte-Carlo sampling action to get from A to B.
+[Dive into the code](https://github.com/matthaeusheer/playground/tree/main/path_planning).
 <p align="center">
   <img width="500" src="assets/rrt_path_planner.gif">
 </p>
