@@ -15,7 +15,7 @@ constrained Gradient Descent optimization.
 How would a [fire-fighting drone](https://www.mbzirc.com/challenge/2020)
 know how to enter a building and put those fires down?
 In my work at the [Autonomous Systems Lab](https://asl.ethz.ch/) at
-ETH Zurich I attempted to provide answers. Chout out the [Github repo](https://github.com/matthaeusheer/uncertify).
+ETH Zurich I attempted to provide answers.
 <p align="center">
   <img width="500" src="assets/building_map.gif">
 </p>
@@ -31,7 +31,8 @@ Some Monte-Carlo sampling action to get from A to B.
 ## Masters Thesis on Unsupervised Anomaly Detection
 Detecting lesions in brain MRI scans using unsupervised Deep
 Representation Learning at the
-[Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH Zurich.
+[Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH Zurich. 
+Chout out the [Github repo](https://github.com/matthaeusheer/uncertify).
 <p align="center">
   <img width="500" src="assets/reconstructions.png">
 </p>
