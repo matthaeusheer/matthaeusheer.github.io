@@ -1,4 +1,4 @@
-I am a Masters Student at [University of Zurich](https://www.uzh.ch/de.html) and [ETH Zurich](https://ethz.ch/de.html) in Physics. I like coding, robotics and vision stuff.  
+I am a Software Engineer at [ipt](https://www.ipt.ch) and former Masters Student at [University of Zurich](https://www.uzh.ch/de.html) and [ETH Zurich](https://ethz.ch/de.html) in Physics. I like coding, robotics and vision stuff.  
 
 These are some of my projects.
 ## Radiological Treatment Planning System
